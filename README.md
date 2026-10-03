@@ -42,6 +42,13 @@ La evidencia de aplicación documentada en este repositorio es específica al ca
 
 Esta analogía se presenta como ilustración conceptual del alcance potencial del principio, no como evidencia de aplicación verificada en ese dominio. Extender el framework a otros contextos de decisión con umbral de riesgo es un área abierta, no una afirmación de este repositorio.
 
+## Repositorios relacionados
+
+Este criterio forma parte de un conjunto de tres repositorios que describen un mismo flujo de trabajo con modelos de lenguaje.
+
+- [Protocolo de Trazabilidad](https://github.com/gerson-chumpitaz/protocolo-de-trazabilidad) exige que toda afirmación quede anclada a un documento y a una página, con un estado de verificación declarado. Criterio de Activación decide cuándo verificar, y el Protocolo registra dónde y cómo.
+- [MD Universal](https://github.com/gerson-chumpitaz/md-universal) convierte PDF y DOCX a Markdown con marcadores de página y audita la conversión con señales de riesgo. Produce la representación barata sobre la que opera este criterio.
+
 ## Autoría
 
 Formalizado por Gerson Chumpitaz, estudiante de Administración y Marketing en Universidad ESAN (Lima, Perú), a partir de una práctica operativa desarrollada y aplicada de forma reiterada en flujos de investigación académica con documentos PDF.
